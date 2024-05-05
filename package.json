@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^5.13.0",
     "@rocketseat/eslint-config": "^2.2.2",
     "next": "14.2.3",
     "prisma": "^5.13.0",
